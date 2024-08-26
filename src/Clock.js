@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect} from "react";
 import "./Clock.css";
 
 // Create an instance of the Audio object with the path to your audio file
